@@ -1,3 +1,0 @@
-# bookbot
-
-Bookbot test description
